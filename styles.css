@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: F9FAF8;
+ }
+ .navbar {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 20px;
+   background-color: #1F2937;
+   color: #fff;
+   }
+   
+   .nav-links {
+   color: #fff;
+   list-style: none;
+   padding: 0;
+   margin: o;
+   }
+   
+   .nav-links a {
+      color: #fff;
+      text-decoration: none;
+   }
+
+   .logo {
+   font-size: 32px;
+   }
+   
+   .menu {
+   display: flex;
+   gap: 1em;
+   font-size: 18px;
+   }
+     
+   .menu li {
+   padding: 5px 14px;
+   }
+
+
