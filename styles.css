@@ -177,3 +177,48 @@
       color: #1F2937;
       font-size: 24px;
    }
+
+   .cfaction {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 300px;
+   }
+
+   .holding-box{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      background-color: #3882f6;
+      height: 150px;
+      width: 72%;
+      border: 5px solid #3882f6;
+      border-radius: 12px;
+      
+   }
+
+   .commentary {
+      display: flex;
+      flex-direction: column;
+   }
+
+   .Top-text {
+      font-weight: bolder;
+      font-size: 24px;
+   }
+   
+   .bottom-text {
+      font-size: 18px;
+      color: #e5e7eb;
+   }
+
+   .sign-button2 {
+      font-size: 24px;
+      background-color: #3882f6;
+      color: #fff;
+      border-radius: 12px;
+      padding: 4px 20px;
+      text-align: center;
+      text-decoration: none;
+      border-color: white;
+   }
