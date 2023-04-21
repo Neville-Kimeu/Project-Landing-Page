@@ -153,4 +153,27 @@
       font-weight: bold;
    }
     
-  
+   .inspiring-quote{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      color: #e5e7eb;
+      height: 300px;
+      background-color: #E5E7EB;
+   }
+   .quote {
+      color: #1F2937;
+      font-weight: lighter;
+      font-size: 36px;
+      text-align: center;
+      font-style: italic;
+   }
+   .quoter {
+      display: flex;
+      justify-content: flex-end;
+      margin-left: 42%;
+      font-weight: bolder;
+      color: #1F2937;
+      font-size: 24px;
+   }
